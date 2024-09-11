@@ -1,2 +1,2 @@
-# Ingeneria
+# Ingenería
 Actividades y recursos
